@@ -1,0 +1,27 @@
+{
+  "name": "aiocoppingengine",
+  "version": "1.0.0",
+  "description": "AIO Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Novaaaaa/AIOCoppingEngine.git"
+  },
+  "author": "JM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Novaaaaa/AIOCoppingEngine/issues"
+  },
+  "homepage": "https://github.com/Novaaaaa/AIOCoppingEngine#readme",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "cheerio": "^1.0.0-rc.2",
+    "clear": "0.0.1",
+    "moment": "^2.19.2",
+    "prompt": "^1.0.0",
+    "request": "^2.83.0"
+  }
+}
